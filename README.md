@@ -1,0 +1,2 @@
+# freebsd_puma_missing_constant_monkey_patch
+freebsd_puma_missing_constant_monkey_patch
